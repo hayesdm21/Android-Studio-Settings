@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QB Passer Rating Calculator</string>
+
+
+    <!-- Inputs-->
+    <string name="pass_attempts_label">Pass Attempts: </string>
+    <string name="pass_attempts"></string>
+
+    <string name="pass_completions_label">Pass Completions: </string>
+    <string name="pass_completions"></string>
+
+    <string name="pass_yard_label">Pass Yards: </string>
+    <string name="pass_yards"></string>
+
+    <string name="pass_touchdown_label">Pass Touchdowns: </string>
+    <string name="pass_touchdowns"></string>
+
+    <string name="pass_interception_label">Pass Interceptions: </string>
+    <string name="pass_interceptions"></string>
+
+    <!-- Buttons -->
+    <string name="clear_all">Clear All</string>
+    <string name="calculate_rating">Calculate Rating</string>
+
+    <!-- QB Score Results -->
+    <string name="qb_rating_label">Quarterback Rating</string>
+    <string name="qb_rating_value">158.3</string>
+</resources>

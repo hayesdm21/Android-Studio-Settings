@@ -1,0 +1,7 @@
+#Wed Jan 25 20:28:25 CST 2017
+base.0=D\:\\Users\\zachs_000\\Documents\\2Semester\\MobileDev\\Lab1\\QuarterbackPassRatingCalcV2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0477adda4c21178354b61a95e3edb4b600867d4e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Users\\zachs_000\\Documents\\2Semester\\MobileDev\\Lab1\\QuarterbackPassRatingCalcV2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1a52293d18b525e0c4cdca50899db090a3605568\\classes.dex
+base.1=D\:\\Users\\zachs_000\\Documents\\2Semester\\MobileDev\\Lab1\\QuarterbackPassRatingCalcV2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1a52293d18b525e0c4cdca50899db090a3605568
+file.0=D\:\\Users\\zachs_000\\Documents\\2Semester\\MobileDev\\Lab1\\QuarterbackPassRatingCalcV2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0477adda4c21178354b61a95e3edb4b600867d4e\\classes.dex
